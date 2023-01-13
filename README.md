@@ -1,5 +1,7 @@
 # poetry-
 Poetry 
+I'm tired
+Aren't you tired
 of living on each day?
 Sick of the same shit
 I'm tired of you getting your way
@@ -25,4 +27,4 @@ you'll use it against me in time
 I need some structure
 At the same time I need none
 Also at the same time
-I can call myself done
+I can call myself done 
